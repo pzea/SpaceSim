@@ -51,7 +51,6 @@ SpaceSim.uproject
 Content/StarterContent/
 Content/TopDownBP/Animations/
 Content/TopDownBP/Character/
-Content/TopDownBP/Maps/
 Content/TopDownBP/Meshes/
 Content/TopDownBP/BaseMaterials.uasset
 Content/TopDownBP/SelectableMaterial.uasset
