@@ -50,7 +50,9 @@ SpaceSim.jpg
 SpaceSim.uproject
 Content/StarterContent/
 Content/TopDownBP/Animations/
-Content/TopDownBP/Character/
+Content/TopDownBP/Character/Materials
+Content/TopDownBP/Character/Mesh
+Content/TopDownBP/Character/Textures
 Content/TopDownBP/Meshes/
 Content/TopDownBP/BaseMaterials.uasset
 Content/TopDownBP/SelectableMaterial.uasset
